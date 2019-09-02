@@ -137,6 +137,7 @@
     <ResourceCompile Include="glfw.rc" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="glad\resource\shader\lighter.fs" />
     <None Include="glad\resource\shader\shader.fs" />
     <None Include="glad\resource\shader\shader.vs" />
   </ItemGroup>
